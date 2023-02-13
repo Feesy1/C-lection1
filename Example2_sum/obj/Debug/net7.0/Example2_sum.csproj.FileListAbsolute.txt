@@ -1,0 +1,15 @@
+/Users/petr/Desktop/Examples/Example2_sum/bin/Debug/net7.0/Example2_sum
+/Users/petr/Desktop/Examples/Example2_sum/bin/Debug/net7.0/Example2_sum.deps.json
+/Users/petr/Desktop/Examples/Example2_sum/bin/Debug/net7.0/Example2_sum.runtimeconfig.json
+/Users/petr/Desktop/Examples/Example2_sum/bin/Debug/net7.0/Example2_sum.dll
+/Users/petr/Desktop/Examples/Example2_sum/bin/Debug/net7.0/Example2_sum.pdb
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.csproj.AssemblyReference.cache
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.AssemblyInfoInputs.cache
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.AssemblyInfo.cs
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.csproj.CoreCompileInputs.cache
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.dll
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/refint/Example2_sum.dll
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.pdb
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/Example2_sum.genruntimeconfig.cache
+/Users/petr/Desktop/Examples/Example2_sum/obj/Debug/net7.0/ref/Example2_sum.dll
